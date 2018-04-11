@@ -20,7 +20,7 @@ Statistical Learning ([online](https://web.stanford.edu/~hastie/ElemStatLearn/)
     * Géron (2017) Hands-On Machine Learning with Scikit-Learn and TensorFlow
     * Martin (2016) Bayesian Analysis with Python
 
-__Online Learning Materials___
+__Online Learning Materials__
 
 * Math and Statistics
     * [KhanAcademy](https://www.khanacademy.org/)
