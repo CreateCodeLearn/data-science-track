@@ -36,7 +36,6 @@ __Online Learning Materials__
     * [DataCamp](https://www.datacamp.com/)
     * [Udacity](https://udacity.com)
     * [Udemy](https://www.udemy.com)
-    * [codecademy](https://www.codecademy.com/tracks/python)
     * [newcoder.io](http://newcoder.io/tutorials/)
     * [Software Carpentry](https://software-carpentry.org/)
     * [Data Carpentry](http://www.datacarpentry.org/)
