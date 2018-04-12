@@ -1,9 +1,12 @@
+
+## A list of learning resources for the data science track of Create-Code-Learn
+
 __Books__
 
 * Statistics
     * James et al. (2013) An Introduction to Statistical Learning with Applications in R ([online](http://www-bcf.usc.edu/~gareth/ISL/))    
     * Hastie et al. (2009) The Elements of
-Statistical Learning ([online](https://web.stanford.edu/~hastie/ElemStatLearn/)
+Statistical Learning ([online](https://web.stanford.edu/~hastie/ElemStatLearn/))
     * Bishop (2006) Pattern Recognition and Machine Learning
     * Gelman et al. (2013). Bayesian Data Analysis ([online](http://www.stat.columbia.edu/~gelman/book/))
     * Strang (2016) Introduction to Linear Algebra
@@ -52,6 +55,7 @@ __Online Learning Materials__
     * [numpy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
     * [Pandas](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
     * [Matplolib](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
+    * [scikit-learn](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf)
     * [Conda](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
     * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
     * [MathJax](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
