@@ -17,7 +17,7 @@ Statistical Learning ([online](https://web.stanford.edu/~hastie/ElemStatLearn/))
     
 * Data Science
     * McKinney (2017) Python for Data Analysis Book
-    * VanderPlas (2016) Python Data Science Handbook
+    * VanderPlas (2016) Python Data Science Handbook ((online)[https://jakevdp.github.io/PythonDataScienceHandbook/])
     * Grus (2015) Data Science from Scratch
     * Raschka (2015) Python Machine Learning
     * Géron (2017) Hands-On Machine Learning with Scikit-Learn and TensorFlow
