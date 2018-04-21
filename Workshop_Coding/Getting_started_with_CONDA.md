@@ -11,9 +11,7 @@ Once installed, we created a new environment called `ccl_python` by typing
 
 `conda create -n ccl_python python=3`
 
-in the command line.
-
-During the workshop we installed additional Python modules by typing
+in the command line. During the workshop we installed additional Python modules by typing
 
 `conda install numpy pandas matpltlib seaborn holoviews`. 
 
@@ -24,13 +22,6 @@ It is recommended to add the [conda-forge channel](https://conda-forge.org/) to 
 
 `conda config --add channels conda-forge` 
 
-***
-
-If for any reason you did not attend the workshop, but want to follow along you may create an environment and install all required dependencies on your machine by calling
-
-`conda env create -f environment.yml`.
-
-This command creates an environment based on the information provided in the `environment.yml` file.
 
 Once we have all modules you activate your new environment by typing 
 
@@ -40,10 +31,17 @@ Once we have all modules you activate your new environment by typing
 
 Then you are ready to go (if you are stuck check out the [conda documentation site](https://conda.io/docs/user-guide/tasks/manage-environments.html#)). 
 
-Alternatively, you may launch [binder](https://mybinder.org/) to get a reproducible executable environment immediately in your browser. Simply click the _launch binder_ icon in the upper left corner, or go [here](https://mybinder.org/v2/gh/eotp/workshop-data-science-CODE/master).
+> Alternatively, you may launch [binder](https://mybinder.org/) to get a reproducible executable environment immediately in your browser. Simply click the _launch binder_ icon in the upper left corner, or go [here](https://mybinder.org/v2/gh/eotp/workshop-data-science-CODE/master).
 
 
 
+***
+
+If for any reason you did not attend the workshop, but want to follow along you may create an environment and install all required dependencies on your machine by calling
+
+`conda env create -f environment.yml`.
+
+This command creates an environment based on the information provided in the `environment.yml` file. Acivate your environment as shown above, then you are ready to go.
 
 
 
