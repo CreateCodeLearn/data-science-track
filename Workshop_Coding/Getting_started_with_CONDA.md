@@ -11,7 +11,7 @@ in the command line. It is recommended to add the [conda-forge channel](https://
 
 `conda config --add channels conda-forge` 
 
-Once we have all modules you activate your new environment by typing 
+You activate your new environment by typing 
 
 `source activate ccl_python` (on LINUX and Mac) or
 
