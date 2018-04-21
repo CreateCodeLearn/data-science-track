@@ -1,0 +1,2 @@
+## Solution Challenge 1
+!head -50 ../data/Complete_TAVG_complete.txt
