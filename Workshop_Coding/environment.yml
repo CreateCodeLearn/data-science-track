@@ -1,0 +1,14 @@
+name: ccl_python
+channels:
+- conda-forge
+- defaults
+dependencies:
+- numpy
+- pandas
+- sklearn
+- matplotlib
+- seaborn
+- holoviews
+- notebook
+- xlrd
+
