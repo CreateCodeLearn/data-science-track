@@ -7,17 +7,9 @@ This repository contains materials for a workshop on __Introduction to Python an
 
 `conda create -n ccl_python python=3`
 
-in the command line. During the workshop we installed additional Python modules by typing
-
-`conda install numpy pandas matpltlib seaborn holoviews`. 
-
-_Note that the _coda_ package manager further installs additional modules to account for any dependencies._ 
-
-
-It is recommended to add the [conda-forge channel](https://conda-forge.org/) to your conda channels:
+in the command line. It is recommended to add the [conda-forge channel](https://conda-forge.org/) to your conda channels:
 
 `conda config --add channels conda-forge` 
-
 
 Once we have all modules you activate your new environment by typing 
 
@@ -25,10 +17,13 @@ Once we have all modules you activate your new environment by typing
 
 `activate ccl_python` (on WINDOWS). 
 
+During the workshop we installed additional Python modules by typing
+
+`conda install numpy pandas matplotlib seaborn holoviews notebook`. 
+
 Then you are ready to go (if you are stuck check out the [conda documentation site](https://conda.io/docs/user-guide/tasks/manage-environments.html#)). 
 
 > Alternatively, you may launch [binder](https://mybinder.org/) to get a reproducible executable environment immediately in your browser. Simply click the _launch binder_ icon in the upper left corner, or go [here](https://mybinder.org/v2/gh/eotp/workshop-data-science-CODE/master).
-
 
 
 ***
