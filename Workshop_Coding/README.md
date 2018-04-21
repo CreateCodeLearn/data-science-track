@@ -1,7 +1,7 @@
-# Materials for a Workshop _Introduction to Python and the Python Ecosystem_, April 20<sup>th</sup>, 2018
+# Materials for the workshop _Introduction to Python and the Python Ecosystem_, April 20<sup>th</sup>, 2018
 
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/eotp/workshop-data-science-CODE/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CreateCodeLearn/data-science-track/master?filepath=Workshop_Coding)
 
 This repository contains materials for a workshop on __Introduction to Python and the Python Ecosystem__. In order to re-run the workshop materials we encourage you to use the [_conda_](https://conda.io/docs/) package manager. Once installed, we created a new environment called `ccl_python` by typing
 
@@ -23,7 +23,7 @@ During the workshop we installed additional Python modules by typing
 
 Then you are ready to go (if you are stuck check out the [conda documentation site](https://conda.io/docs/user-guide/tasks/manage-environments.html#)). 
 
-> Alternatively, you may launch [binder](https://mybinder.org/) to get a reproducible executable environment immediately in your browser. Simply click the _launch binder_ icon in the upper left corner, or go [here](https://mybinder.org/v2/gh/eotp/workshop-data-science-CODE/master).
+> Alternatively, you may launch [binder](https://mybinder.org/) to get a reproducible executable environment immediately in your browser. Simply click the _launch binder_ icon in the upper left corner, or go [here](https://mybinder.org/v2/gh/CreateCodeLearn/data-science-track/master?filepath=Workshop_Coding).
 
 
 ***
