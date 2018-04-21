@@ -3,11 +3,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/eotp/workshop-data-science-CODE/master)
 
-This repository contains materials for a workshop on __Introduction to Python and the Python Ecosystem__.
-
-In order to re-run the workshop materials we encourage you to use the [_conda_](https://conda.io/docs/) package manager. 
-
-Once installed, we created a new environment called `ccl_python` by typing
+This repository contains materials for a workshop on __Introduction to Python and the Python Ecosystem__. In order to re-run the workshop materials we encourage you to use the [_conda_](https://conda.io/docs/) package manager. Once installed, we created a new environment called `ccl_python` by typing
 
 `conda create -n ccl_python python=3`
 
