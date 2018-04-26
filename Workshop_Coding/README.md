@@ -32,7 +32,7 @@ If for any reason you did not attend the workshop, but want to follow along you 
 
 `conda env create -f environment.yml`.
 
-This command creates an environment based on the information provided in the `environment.yml` file. Acivate your environment as shown above, then you are ready to go.
+This command creates an environment based on the information provided in the `environment.yml` file. Activate your environment as shown above, then you are ready to go.
 
 
 
