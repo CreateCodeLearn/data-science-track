@@ -1,0 +1,9 @@
+
+# Pycharm
+.idea
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# exclude reports folder
+/reports
